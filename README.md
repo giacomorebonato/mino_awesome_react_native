@@ -10,6 +10,9 @@ My personal list of interesting React-Native components
 ## Maps  
 [react-native-maps](https://github.com/airbnb/react-native-maps)  
 
+## Navigator  
+[react-native-router-flux](https://github.com/aksonov/react-native-router-flux)
+
 ## UI  
 [react-native-elements](https://github.com/react-native-community/React-Native-Elements)
 
