@@ -1,4 +1,4 @@
-# mino_awesome_react_native
+# Mino Awesome React-Native
 My personal list of interesting React-Native components
 
 ## Camera  
@@ -9,3 +9,6 @@ My personal list of interesting React-Native components
 
 ## UI  
 [react-native-elements](https://github.com/react-native-community/React-Native-Elements)
+
+## DB  
+[Realm](https://realm.io/docs/react-native/latest/) 
